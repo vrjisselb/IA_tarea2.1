@@ -1,0 +1,14 @@
+Nota: Se agregaron caracteristicas de ratio de population, rooms, median_income
+relacion de la longitude con median_house_value, 
+asi mismo de la latitude con la median_house volue
+¿El resultado fue mejor o peor? 
+El indice de prediccion fue mejor al crear ciertas relaciones entre los campos.
+
+¿Por qué crees que es así?
+Porque se simplifica los margenes de error al hacer relaciones
+los que nos permite poder ajustar los datos del median_house_value
+
+Nota graciosa: que esté bueno es otra cosa :c
+
+
+Link Colab: https://colab.research.google.com/drive/1K9hc0l240kWJdLVwFAd7WaMnGocFmyBR#scrollTo=kJM8S5Lj01RP
